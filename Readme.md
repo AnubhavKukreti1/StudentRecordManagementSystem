@@ -72,5 +72,3 @@ The application automatically generates a local SQLite database file named `stud
 This project is open-source and available under the [MIT License](https://www.google.com/search?q=LICENSE&utm_source=gemini).
 
 ```
-
----
