@@ -86,11 +86,4 @@ The application automatically provisions a local SQLite database file named `stu
 
 This project is open-source and available under the [MIT License](https://github.com/AnubhavKukreti1/StudentRecordManagementSystem.git).
 
-```
 
-### What makes this animated and cool?
-1. **The Typing Header:** The title smoothly types out dynamically using a lightweight SVG generator (`readme-typing-svg`).
-2. **The Tech Badges:** The colorful badges for Python, Tkinter, SQLite, and GitHub Stars render as modern pills that look great on GitHub profiles and repo homepages.
-3. **Personalized Link:** Your exact username and repo name are embedded, so the clone link works out of the box.
-
-```
